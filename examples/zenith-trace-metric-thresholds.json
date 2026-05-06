@@ -1,0 +1,17 @@
+{
+  "repo": "zenith-trace-metric-probe",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 5,
+    "ship": 189,
+    "watch": 97
+  },
+  "terms": [
+    "span volume",
+    "latency skew",
+    "signal loss",
+    "incident shape"
+  ]
+}
